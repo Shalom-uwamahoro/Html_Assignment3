@@ -1,8 +1,13 @@
+
 #outer{
     border: solid black 2px;
 }
 #p1{
     color: black;
+}
+#sectiono{
+    border: solid black 2px;
+    
 }
 
 #section1{
@@ -10,23 +15,26 @@
     color: black;
     display: flex;
     gap: 70%;
+    border: solid black 2px;
     
 }
 #section2{
     color: black;
     display: flex;
     gap: 10%;  
-
+    border: solid black 2px;
 }
 
 #section3{
     background-image: url(photos/pic1.jpeg);
+    border: solid black 2px;
 }
 
 #section4{
     display: flex;
     color: black;
     gap: 20%;
+    border: solid black 2px;
 
 }
 
@@ -43,20 +51,24 @@
 #section5{
     display: flex;
     gap: 15%;
+    border: solid black 2px;
 }
 
 #section6{
 
+    border: solid black 2px;
 }
 
 #section7{
     display: flex;
     gap: 15%;
+    border: solid black 2px;
 }
 
 #section8{
     display: flex;
     gap: 40%;
+    border: solid black 2px;
 }
 
 #click{
@@ -71,6 +83,7 @@
 #section9{
     display: flex;
     gap: 30%;
+    border: solid black 2px;
 }
 #photo9{
     width: 550px;
@@ -81,6 +94,14 @@
 
 .verify{
     size: 20px;
+}
+
+#section10{
+    border: solid black 2px;
+}
+
+#section11{
+    border: solid black 2px;
 }
 
 #photo11{
@@ -108,20 +129,53 @@
     
 }
 
+#section12{
+    border: solid black 2px;
+
+}
+
 #sec13{
     display: flex;
     gap: 30%;
+    border: solid black 2px;
 }
 
 #sec14{
     display: flex;
     gap: 30%;
+    border: solid black 2px;
 }
 
 .content14{
     display: flex;
     gap: 10%;
 }
-.photo14{
+#photo14{
+    background-image:url(photos/photo14.avif);
     
+}
+
+#section15{
+    border: solid black 2px;
+}
+
+#photo15{
+    background-image:url(photos/photo15.avif) ;
+}
+
+#photo16{
+    background-image:url(photos/photo16.jpg) ;
+}
+
+
+
+
+#text{
+    display: flex;
+    gap: 40%;
+}
+
+#footer{
+    display: flex;
+    gap: 20%;
 }
