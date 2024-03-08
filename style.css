@@ -1,0 +1,127 @@
+#outer{
+    border: solid black 2px;
+}
+#p1{
+    color: black;
+}
+
+#section1{
+  
+    color: black;
+    display: flex;
+    gap: 70%;
+    
+}
+#section2{
+    color: black;
+    display: flex;
+    gap: 10%;  
+
+}
+
+#section3{
+    background-image: url(photos/pic1.jpeg);
+}
+
+#section4{
+    display: flex;
+    color: black;
+    gap: 20%;
+
+}
+
+#photo2{
+    width:600px;
+    height:600px;
+}
+
+#photo3{
+    width:600px;
+    height:600px;
+}
+
+#section5{
+    display: flex;
+    gap: 15%;
+}
+
+#section6{
+
+}
+
+#section7{
+    display: flex;
+    gap: 15%;
+}
+
+#section8{
+    display: flex;
+    gap: 40%;
+}
+
+#click{
+    display: flex;
+    gap: 20%;
+}
+
+#playimage{
+    width: 250px;
+    height: 150px;
+}
+#section9{
+    display: flex;
+    gap: 30%;
+}
+#photo9{
+    width: 550px;
+    height: 650px;
+    
+    
+}
+
+.verify{
+    size: 20px;
+}
+
+#photo11{
+    width: 1812px;
+    height: 700px;
+
+}
+#formside{
+    display: flex;
+    gap: 40%;
+}
+#form{
+    display: flex;
+    gap: 10%;
+}
+
+#words12{
+    display: flex;
+    gap: 20%;
+}
+
+.woman{
+    width: 80px;
+    height: 80px;
+    
+}
+
+#sec13{
+    display: flex;
+    gap: 30%;
+}
+
+#sec14{
+    display: flex;
+    gap: 30%;
+}
+
+.content14{
+    display: flex;
+    gap: 10%;
+}
+.photo14{
+    
+}
