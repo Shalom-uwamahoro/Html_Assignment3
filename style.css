@@ -2,7 +2,7 @@
 @media all and (mx-width: 600px){}
 
 #outer{
-    border: solid black 2px;
+    
     width:100%;
     
 
@@ -343,45 +343,118 @@ color: white;
 }
 
 #section12{
-    border: solid black 2px;
+    
+    margin-left: 10%;
+    margin-right: 7%;
 
 }
+#sec12a{
+  margin-left: 40%;
+  color: #F6BE00;
 
+}
+#what12{
+margin-left: 38%;
+font-size: 50px;
+}
+
+.img12{
+    margin-left: 30%;
+}
+
+.p{
+ color: gray;
+}
+
+.h3{
+    color:#F6BE00;
+}
+
+#section13{
+  
+    
+}
+#sec13a{
+    color: #F6BE00;
+    margin-left: 45%;
+}
+
+#h13{
+    margin-left:38%;
+    font-size: 60px;
+}
 #sec13{
     display: flex;
-    gap: 30%;
-    border: solid black 2px;
+    gap: 45%;
+    margin-left: 35%;
+    margin-right: 10%;
 }
+
+#email13{
+    color: gray;
+    font-size: 20px;
+}
+
+#button13{
+    padding: 20px 35px;
+    background-color: #F6BE00;
+    color: aliceblue;
+    border-color: #F6BE00;
+    cursor: pointer;
+}
+
+#section14{
+
+}
+#sec14a{
+    color: #F6BE00;
+    margin-left: 45%;  
+}
+#sec14b{
+    margin-left:38%;
+    font-size: 60px;
+}
+
+
+
 
 #sec14{
     display: flex;
-    gap: 30%;
-    border: solid black 2px;
+    gap: 5%;
+    
+    height: 500px;
+    margin-left: 13%;
+    margin-right: 13%;
 }
 
 .content14{
     display: flex;
     gap: 10%;
+
 }
 #photo14{
     background-image:url(photos/photo14.avif);
+    width: 700px;
+   
     
 }
 
-#section15{
-    border: solid black 2px;
-}
+
 
 #photo15{
     background-image:url(photos/photo15.avif) ;
+    width: 700px;
 }
 
 #photo16{
     background-image:url(photos/photo16.jpg) ;
+    width: 700px;
 }
 
 
-
+#section15{
+    border: solid black 2px;
+}
 
 #text{
     display: flex;
