@@ -1,74 +1,195 @@
 
+@media all and (mx-width: 600px){}
+
 #outer{
     border: solid black 2px;
+    width:100%;
+    
+
 }
 #p1{
     color: black;
 }
 #sectiono{
-    border: solid black 2px;
+    width: 10px;
+    color: white;
     
 }
 
 #section1{
   
     color: black;
-    display: flex;
-    gap: 70%;
-    border: solid black 2px;
     
+    display: flex;
+    gap: 85%;
+    margin-left: 5%;
+    margin-right:5%;
+     
+}
+.p0{
+    color: gray;
 }
 #section2{
     color: black;
     display: flex;
-    gap: 10%;  
-    border: solid black 2px;
+    gap: 11.2%;  
+    margin-left: 10%;
+    margin-right: 10%;
+    
+    
+}
+
+.h4{
+    text-decoration: none;
+    color: gray;
 }
 
 #section3{
     background-image: url(photos/pic1.jpeg);
-    border: solid black 2px;
+    background-size: cover;
+    height: 800px;
+    
+}
+
+#h5{
+    margin-top: 18%;
+    margin-left: 37%;
+    font-size: 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#move{
+    margin-top: 0%;
+    margin-left: 30%;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#button1{
+    margin-bottom: 30%;
+    margin-left: 37%;
+    padding: 20px 60px;
+    background-color:#F6BE00;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: #F6BE00;
+    cursor: pointer;
+
 }
 
 #section4{
     display: flex;
     color: black;
     gap: 20%;
-    border: solid black 2px;
+    margin-left: 12%;
+    margin-right: 10%;
 
+}
+#left{
+    
+   
+    
+}
+#rightt{
+    
+   
+    
+}
+#yearside{
+    display: flex;
+    gap: 10%;
+}
+#year{
+    margin-top: 10%;
+}
+#yr{
+font-size: 60px;
+}
+
+#par4{
+    
+}
+#content{
+    margin-top: 10%;
+}
+#learn{
+   
+    font-size: 25px;
+    color: #F6BE00;
+    margin-left: 15%;
+
+}
+#s4{
+    
+    font-size: 45px;
+    margin-left: 15%;
 }
 
 #photo2{
-    width:600px;
-    height:600px;
+    width:500px;
+    height:450px;
+    margin-left: 15%;
+    
+   
 }
 
 #photo3{
-    width:600px;
-    height:600px;
+    width:500px;
+    height:450px;
+
+
+    
 }
 
 #section5{
     display: flex;
-    gap: 15%;
-    border: solid black 2px;
+    gap: 14.3%;
+    margin-left: 13%;
+    margin-right: 13%;
 }
 
 #section6{
 
-    border: solid black 2px;
+    margin-left: 40%;
+    margin-right: 5%;
+}
+
+#our6{
+    color:#F6BE00;
+    margin-left: 5%;
+
+}
+
+#what6{
+font-size: 60px;
+padding-right: 10%;
 }
 
 #section7{
     display: flex;
     gap: 15%;
-    border: solid black 2px;
+    margin-left: 20%;
+    margin-right: 18%;
 }
 
+.read{
+    text-decoration: none;
+    color: #F6BE00;
+}
+#storage{
+    background-color: blue;
+    width: 240px;
+    
+}
 #section8{
     display: flex;
-    gap: 40%;
-    border: solid black 2px;
+    gap: 30%;
+
+    margin-left: 15%;
+    margin-right: 13%;
+}
+#word{
+    font-size: 40px;
 }
 
 #click{
@@ -82,26 +203,87 @@
 }
 #section9{
     display: flex;
-    gap: 30%;
-    border: solid black 2px;
+    gap: 20%;
+    margin-left: 15%;
+    margin-right: 12%;
 }
-#photo9{
+
+#sec9aa{
+    background-color: blue;
+    width: 600px;
+    height: 700px;
+  
+
+}
+
+#sec9a{
+    background-image: url("photos/box9.png" );
     width: 550px;
-    height: 650px;
-    
+    height: 550px;
     
 }
+
+
+
+#white1{
+    background-color: aliceblue;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+#get{
+    color: #F6BE00;
+}
+
+#h3{
+    margin-left: 6%;
+    margin-top: 8%;
+}
+
+#sec9b{
+
+}
+
+#leading{
+    font-size: 40px;
+}
+
+#why9{
+    color: #F6BE00;
+}
+
+#section10{
+
+    margin-left: 30%;
+    margin-right: 20%;
+}
+
+#sec10{
+    color: grey;
+    font-size: 25px;
+}
+
+#sec10b{
+    color: #F6BE00;
+}
+
+#photo11{
+    height:50px;
+}
+
+
 
 .verify{
     size: 20px;
 }
 
 #section10{
-    border: solid black 2px;
+    
 }
 
 #section11{
-    border: solid black 2px;
+    
+   margin-top: none;
 }
 
 #photo11{
@@ -109,13 +291,44 @@
     height: 700px;
 
 }
+.input{
+    padding: 18px 50px;
+}
+
+#button2{
+    padding: 18px 20px;
+}
 #formside{
     display: flex;
-    gap: 40%;
+    
+    
+    
+}
+
+#word11{
+    background-color: #F6BE00;
+    padding-right: 50%;
+    color: white;
+    
 }
 #form{
     display: flex;
-    gap: 10%;
+    gap: 5%;
+    background-color: blue;
+    width: 800px;
+    color: white;
+    
+    
+
+}
+
+#book11{
+padding-left: 5%;
+color: white;
+}
+
+#h11{
+    padding-left: 5%;
 }
 
 #words12{
