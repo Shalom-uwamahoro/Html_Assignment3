@@ -4,15 +4,24 @@
 #outer{
     
     width:100%;
+   
     
 
 }
 #p1{
-    color: black;
-}
-#sectiono{
-    width: 10px;
     color: white;
+
+}
+#p1a{
+    color: gray;
+    margin-left: 35%;
+}
+#section0{
+    
+    color: white;
+    border: solid black;
+    background-color: black;
+   
     
 }
 
@@ -48,6 +57,7 @@
     background-image: url(photos/pic1.jpeg);
     background-size: cover;
     height: 800px;
+    border: solid white;
     
 }
 
@@ -300,6 +310,7 @@ padding-right: 10%;
 }
 #formside{
     display: flex;
+
     
     
     
@@ -317,6 +328,7 @@ padding-right: 10%;
     background-color: blue;
     width: 800px;
     color: white;
+    border-color: #F6BE00;
     
     
 
@@ -431,6 +443,7 @@ font-size: 50px;
     display: flex;
     gap: 10%;
 
+
 }
 #photo14{
     background-image:url(photos/photo14.avif);
@@ -451,17 +464,64 @@ font-size: 50px;
     width: 700px;
 }
 
+.h{
+    margin-top: 70%;
+    margin-left: 18%;
+    color: aliceblue;
+}
+.h2{
+    margin-left: 18%;
+    color: aliceblue;
+}
+
+
 
 #section15{
-    border: solid black 2px;
+    
 }
 
 #text{
     display: flex;
     gap: 40%;
+    background-color: #F6BE00;
+    color: white;
+    height: 200px;
+    margin-top: 5%;
+
+}
+
+#h15{
+    margin-left: 13%;
+    margin-top: 5%;
+}
+
+#button15{
+    padding: 20px 40px;
+    background-color: black;
+    color: aliceblue;
+    height: 5opx;
+    margin-top: 27%;
+
 }
 
 #footer{
     display: flex;
-    gap: 20%;
+    gap: 10%;
+    background: black;
+    color: white;
+    padding-top: 3%;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.footer1{
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+}
+#line1{
+    margin-left: 15%;
+}
+
+.icons{
+    margin-right: 5%;
 }
