@@ -4,12 +4,11 @@
 #outer{
     
     width:100%;
-   
-    
 
 }
 #p1{
     color: white;
+    cursor: pointer;
 
 }
 #p1a{
@@ -44,7 +43,7 @@
     gap: 11.2%;  
     margin-left: 10%;
     margin-right: 10%;
-    
+    cursor: pointer;
     
 }
 
@@ -127,6 +126,7 @@ font-size: 60px;
     font-size: 25px;
     color: #F6BE00;
     margin-left: 15%;
+    cursor: pointer;
 
 }
 #s4{
@@ -151,11 +151,20 @@ font-size: 60px;
     
 }
 
+#Riaad{
+    color: #F6BE00;
+    cursor: pointer;
+}
+
 #section5{
     display: flex;
     gap: 14.3%;
     margin-left: 13%;
     margin-right: 13%;
+}
+
+.h4{
+    cursor: pointer;
 }
 
 #section6{
@@ -294,6 +303,19 @@ padding-right: 10%;
 #section11{
     
    margin-top: none;
+}
+
+#overlay-img{
+        position: absolute;
+        top: 430%; 
+        left: 50%; 
+        background-color: none; 
+        border-radius: 130px;
+        padding: 10px 20px;  
+        text-align: center;
+        width: 150px;
+        height: 150px;
+        cursor: pointer;
 }
 
 #photo11{
@@ -501,6 +523,7 @@ font-size: 50px;
     color: aliceblue;
     height: 5opx;
     margin-top: 27%;
+    cursor: pointer;
 
 }
 
@@ -517,11 +540,14 @@ font-size: 50px;
     text-decoration: none;
     color: gray;
     font-size: 20px;
+    cursor: pointer;
 }
 #line1{
     margin-left: 15%;
+    
 }
 
 .icons{
     margin-right: 5%;
+    cursor: pointer;
 }
